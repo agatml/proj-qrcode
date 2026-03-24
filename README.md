@@ -17,7 +17,7 @@ O usuário escolhe qual ferramenta deseja utilizar ao iniciar o programa.
 - prompt — entrada de dados via CLI
 - qrcode-terminal — geração de QR Code no terminal
 
----
+```
 
 ## 📂 Estrutura do Projeto
 
@@ -40,7 +40,7 @@ src
 └── index.js
 
 
----
+```
 
 ## ⚙️ Instalação
 
@@ -68,6 +68,9 @@ LOWERCASE_LETTERS	Inclui letras minúsculas
 NUMBERS	Inclui números
 SPECIAL_CHARACTERS	Inclui caracteres especiais
 PASSWORD_LENGTH	Tamanho da senha
+
+```
+
 ▶️ Como Executar
 
 O projeto utiliza um script npm configurado no package.json:
