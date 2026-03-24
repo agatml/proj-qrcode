@@ -115,15 +115,15 @@ Senhas configuráveis por variáveis de ambiente
 QR Code instantâneo no terminal
 Código modularizado
 Arquitetura escalável
+
 🔮 Melhorias Futuras
  Exportar QR Code como PNG
  Copiar senha automaticamente
  Menu interativo avançado
  Histórico de execuções
-👨‍💻 Autor
 
-Projeto desenvolvido para estudo de:
 
+👨‍💻Projeto desenvolvido para estudo de:
 Node.js CLI Applications
 Modularização de código
 Prompts interativos
