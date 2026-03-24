@@ -69,7 +69,7 @@ NUMBERS	Inclui números
 SPECIAL_CHARACTERS	Inclui caracteres especiais
 PASSWORD_LENGTH	Tamanho da senha
 
-```
+
 
 ▶️ Como Executar
 
@@ -131,3 +131,5 @@ Node.js CLI Applications
 Modularização de código
 Prompts interativos
 Manipulação de variáveis de ambiente
+
+```
